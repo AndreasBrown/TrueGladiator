@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/TrueGladiator/static/css/main.981f7211.chunk.css",
-    "main.js": "/TrueGladiator/static/js/main.a61375e3.chunk.js",
-    "main.js.map": "/TrueGladiator/static/js/main.a61375e3.chunk.js.map",
+    "main.js": "/TrueGladiator/static/js/main.1b5bdc4c.chunk.js",
+    "main.js.map": "/TrueGladiator/static/js/main.1b5bdc4c.chunk.js.map",
     "runtime-main.js": "/TrueGladiator/static/js/runtime-main.fe2977c2.js",
     "runtime-main.js.map": "/TrueGladiator/static/js/runtime-main.fe2977c2.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/TrueGladiator/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.126ebb6e.chunk.js": "/TrueGladiator/static/js/2.126ebb6e.chunk.js",
-    "static/js/2.126ebb6e.chunk.js.map": "/TrueGladiator/static/js/2.126ebb6e.chunk.js.map",
+    "static/css/2.de2bbf47.chunk.css": "/TrueGladiator/static/css/2.de2bbf47.chunk.css",
+    "static/js/2.4c07ed33.chunk.js": "/TrueGladiator/static/js/2.4c07ed33.chunk.js",
+    "static/js/2.4c07ed33.chunk.js.map": "/TrueGladiator/static/js/2.4c07ed33.chunk.js.map",
     "index.html": "/TrueGladiator/index.html",
-    "precache-manifest.156ab638ec37936b871645bbd224a198.js": "/TrueGladiator/precache-manifest.156ab638ec37936b871645bbd224a198.js",
+    "precache-manifest.83a064220ffc21c6e397abd81e3c741d.js": "/TrueGladiator/precache-manifest.83a064220ffc21c6e397abd81e3c741d.js",
     "service-worker.js": "/TrueGladiator/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/TrueGladiator/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/2.de2bbf47.chunk.css.map": "/TrueGladiator/static/css/2.de2bbf47.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/TrueGladiator/static/css/main.981f7211.chunk.css.map",
+    "static/media/bootstrap.min.css": "/TrueGladiator/static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/persik.png": "/TrueGladiator/static/media/persik.4e1ec840.png"
   }
 }
