@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e927a037a7b83ed95996b4dd35c8030",
+    "revision": "c2ab26ff887c9ae94bfd946303d41334",
     "url": "/TrueGladiator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TrueGladiator/static/css/2.de2bbf47.chunk.css"
   },
   {
-    "revision": "cf0b2695823cc8e3e0d5",
+    "revision": "55f7b2e56d1ee26121b3",
     "url": "/TrueGladiator/static/css/main.981f7211.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TrueGladiator/static/js/2.778d7534.chunk.js"
   },
   {
-    "revision": "cf0b2695823cc8e3e0d5",
-    "url": "/TrueGladiator/static/js/main.8ef92ffb.chunk.js"
+    "revision": "55f7b2e56d1ee26121b3",
+    "url": "/TrueGladiator/static/js/main.94958f2f.chunk.js"
   },
   {
     "revision": "79db8916cfcdc87ce242",
