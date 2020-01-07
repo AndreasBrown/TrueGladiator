@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TrueGladiator/precache-manifest.1da46c053595544b39de1874d0fd169c.js"
+  "/TrueGladiator/precache-manifest.6dc1ad350cac5014512edc968410fe3e.js"
 );
 
 self.addEventListener('message', (event) => {
