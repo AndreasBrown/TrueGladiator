@@ -9,45 +9,37 @@ import Cell from '@vkontakte/vkui/dist/components/Cell/Cell';
 import Div from '@vkontakte/vkui/dist/components/Div/Div';
 import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
 
-
-function formatName(user) {
-	return user.firstName + ' ' + user.lastName;
-}
-const user = {
-	firstName: 'Калабастер',
-	lastName: 'Дмитриевич'
-};
-
+let user = "Ноунейм Ноунеймович";
 
 
 const Home = ({ id, go, fetchedUser }) => (
 	<View activePanel={id}>
 	<Panel id={id}>
-		<PanelHeader>Example</PanelHeader>
+		<PanelHeader>Gladiator</PanelHeader>
 		{fetchedUser &&
 		<Group title="User Data Fetched with VK Connect">
 			<Cell
 				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
 				description={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
 			>
-				{`${fetchedUser.first_name} ${fetchedUser.last_name}`}
+				{user = `${fetchedUser.first_name} ${fetchedUser.last_name}`}
 			</Cell>
 		</Group>}
 
 		<Group title="Navigation Example">
 			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Show me the Persik, please, {formatName(user)}!
-				</Button>
+                <Button size="l" level="1" onClick={go} data-to="persik">
+                    Show me the Persik, please, { user }!
+                </Button>
+                <Button size="l" level="1" onClick={go} data-to="form">
+                    Go to panel 1
+                </Button>
+                <Button size="l" level="1" onClick={go} data-to="finish">
+                    Go to panel 2
+                </Button>
 			</Div>
 		</Group>
 	</Panel>
-		<Panel id="form">
-			<h1>FORM</h1>
-		</Panel>
-		<Panel id="finish">
-			<h2>FINISH</h2>
-		</Panel>
 	</View>
 
 );

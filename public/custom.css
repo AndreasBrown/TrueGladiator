@@ -1,0 +1,19 @@
+.inpNum{
+    width: 70px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+#exampleFormControlSelect1{
+    min-height: 30px;
+    width: 18%;
+}
+#exampleFormControlSelect2{
+    min-height: 30px;
+    width: 18%;
+}
+
+#exampleFormControlSelect3{
+    width:70%;
+}
